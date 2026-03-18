@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    font-family: monospace;
+    font-size: large;
+}
+h1{
+    color: aquamarine;
+    font-family: monospace;
+}
+p{
+    color: aliceblue;
+    font-family: monospace;
+}
+h2{
+    color: aquamarine;
+    font-family: monospace;
+}
+table{
+    color: aliceblue;
+    font-family: monospace;
+}
+h4{
+    color: aliceblue;
+    font-family: monospace;
+}
+h3{
+    color: aquamarine;
+    font-family: monospace;
+}
+footer{
+        color: aliceblue;
+    font-family: monospace;
+}
