@@ -1,33 +1,69 @@
-body{
-    background-color: black;
-    font-family: monospace;
-    font-size: large;
+body {
+  background-color: #0f172a;
+  color: #e5e7eb;
+  font-family: 'Inter', system-ui, sans-serif;
 }
-h1{
-    color: aquamarine;
-    font-family: monospace;
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #f9fafb;
 }
-p{
-    color: aliceblue;
-    font-family: monospace;
+
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #e5e7eb;
 }
-h2{
-    color: aquamarine;
-    font-family: monospace;
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #d1d5db;
 }
-table{
-    color: aliceblue;
-    font-family: monospace;
+
+h4 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #9ca3af;
 }
-h4{
-    color: aliceblue;
-    font-family: monospace;
+p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #94a3b8;
 }
-h3{
-    color: aquamarine;
-    font-family: monospace;
+a {
+  color: #22c55e;
+  text-decoration: none;
 }
-footer{
-        color: aliceblue;
-    font-family: monospace;
+
+a:hover {
+  text-decoration: underline;
+}
+footer {
+  background-color: #111827;
+  color: #6b7280;
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.9rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #111827;
+  color: #e5e7eb;
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid #1f2937;
+  text-align: left;
+}
+
+th {
+  color: #22c55e;
+  font-weight: 600;
+}
+
+tr:hover {
+  background-color: #1f2937;
 }
