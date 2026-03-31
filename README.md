@@ -40,7 +40,7 @@ Work in progress — regularly updated and polished.
 Clone and open the HTML file in your browser:
 
 ```bash
-git clone <https://github.com/HaranandaLoukrakpam/Portfolio_hosting>
+git clone https://github.com/HaranandaLoukrakpam/Portfolio_hosting
 cd Portfolio
 ```
 
